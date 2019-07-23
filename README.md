@@ -10,7 +10,8 @@ TODO(giri): Add picture of myself
 
  - GitHub [girikuncoro](https://github.com/girikuncoro) 
  - Twitter [@girikuncoro](https://twitter.com/girikuncoro) 
- - LinkedIn [girikuncoro](https://linkedin.com/in/girikuncoro) 
+ - Linkedin [girikuncoro](https://linkedin.com/in/girikuncoro) 
+ - Medium [girikuncoro](https://medium.com/@girikuncoro) 
  
 
 ## Videos
