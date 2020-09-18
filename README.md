@@ -1,6 +1,6 @@
 # Giri Kuncoro
 
-TODO(giri): Add picture of myself
+<img src="https://github.com/girikuncoro/me/blob/master/assets/giri-kuncoro.png?raw=true" width=30% height=50%>
 
 ## Biography 
 
